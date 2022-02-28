@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions for peace, presented to the Kings most excellent Majesty, by the commissioners of the Lords and Commons assembled at Westminster, and His Majesties Royall assent, and gracious answer thereunto on Munday last. VVith His speech in the treaty chamber, concerning the Army. And the joyfull and happy proceedings, of the King, Lords, and Commons, in the treaty. Also, the propositions of the Prince of Wales, to the Earle of Warwick, for a conjunction between the two Navies at Sea: with his Lordships answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90013</idno>
+            <idno type="STC">Wing N725</idno>
+            <idno type="STC">Thomason E467_10</idno>
+            <idno type="STC">ESTC R205243</idno>
+            <idno type="EEBO-CITATION">99864660</idno>
+            <idno type="PROQUEST">99864660</idno>
+            <idno type="VID">162307</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162307)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions for peace, presented to the Kings most excellent Majesty, by the commissioners of the Lords and Commons assembled at Westminster, and His Majesties Royall assent, and gracious answer thereunto on Munday last. VVith His speech in the treaty chamber, concerning the Army. And the joyfull and happy proceedings, of the King, Lords, and Commons, in the treaty. Also, the propositions of the Prince of Wales, to the Earle of Warwick, for a conjunction between the two Navies at Sea: with his Lordships answer thereunto.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II).</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill. (port., woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for R. VVells,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162307:1" rendition="simple:additions"/>
+            <p>NEW PROPOSITIONS FOR PEACE.</p>
+            <p>Preſented to the Kings moſt excellent Majeſty, by the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Lords and Commons aſſembled at <hi>Weſtminſter,</hi> And His Majeſties Royall Aſſent, and gracious Anſwer there<g ref="char:EOLhyphen"/>unto on <hi>Munday</hi> laſt. With His Speech in the Treaty Cham<g ref="char:EOLhyphen"/>ber, concerning the <hi>Army.</hi> And the joyfull and happy procee<g ref="char:EOLhyphen"/>dings, of the <hi>King, Lords,</hi> and <hi>Commons,</hi> in the <hi>Treaty.</hi>
+            </p>
+            <p>Alſo, the Propoſitions of the Prince of <hi>Wales,</hi> to the Earle of <hi>Warwick,</hi> for a conjunction between the two Navies at Sea: With his Lordſhips Anſwer thereunto.</p>
+            <figure>
+               <figDesc>woodcut of a king and man</figDesc>
+            </figure>
+            <p>
+               <hi>L<gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> printed for <hi>R. VVells,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162307:2"/>
+            <pb n="1" facs="tcp:162307:2"/>
+            <head>JOYFULL NEWES FROM THE KING, Concerning his comming to <hi>London;</hi> And a <hi>Declara<g ref="char:EOLhyphen"/>tion</hi> of His proceedings with the Commiſſioners for an Agreement for <hi>Peace.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">U</seg>Pon Satterday laſt, ſeverall papers were preſented to our Commiſſioners by his Majeſty, purporting his earneſt Deſires to come to <hi>London,</hi> and ſit with his two Houſes at <hi>Westminster,</hi> there to treat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon the great and important affairs of the <hi>Kingdom;</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut this will not be aſſented to, untill further ſatisfa<g ref="char:EOLhyphen"/>ction
+<pb n="2" facs="tcp:162307:3"/> be given to the four firſt Bills, contained in the Propoſitions.</p>
+               <p>The great buſineſſe inſiſted on is, the propoſition for ſetling <hi>Religion,</hi> which is like to take up ſome time, his Majeſty gave in a paper to the Commiſſioners of the Reaſons wherefore he could not condiſcend to the ta<g ref="char:EOLhyphen"/>king away Biſhops, and the Government by Biſhops, the treaty hereupon hath held all the laſt week, and nothing yet concluded on, yet moſt are of opinion His Maj. will aſſent, and this propoſition being over, there is leſſe doubt the other in courſe will be agreed on.</p>
+               <p>His Maj. hath promiſed to deliver in his poſitive an<g ref="char:EOLhyphen"/>ſwer this preſent <hi>Munday;</hi> which if it be but ſatisfac<g ref="char:EOLhyphen"/>tory, no doubt but there will be a good concluſion of all to an happy peace.</p>
+               <closer>
+                  <dateline>
+                     <hi>Newport</hi> 
+                     <date>9. <hi>Octob.</hi> 1648.</date> 
+                     <hi>New propoſitions preſented, to his Majesty.</hi>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="propositions">
+               <p n="1">1 That your Maj. according to the laudable example of your Royall Father of happy memory, may be pleaſed to ſwear and ſign the late Solemn League and Covenant; and that an act of Parl. be paſſed, for the in<g ref="char:EOLhyphen"/>joyning the taking thereof by all the ſubjects of the Kingdom, &amp;c.</p>
+               <p n="2">2 That a Bill be paſſed for the utter aboliſhing and taking away of all Arch-biſhops, Biſhops, their Chan<g ref="char:EOLhyphen"/>cellors, and Commiſſaries, Deans and Sub-Deans, and all other Officers whatſoever, out of the Church of <hi>England</hi> and Dominion of <hi>Wales;</hi> and out of the Church of <hi>Ireland.</hi>
+               </p>
+               <p n="3">3 That the Ordinances concerning the calling and ſitting of the Aſſembly of Divines, be confirmed by Act of parliament.</p>
+               <p n="4">
+                  <pb n="3" facs="tcp:162307:3"/>4 That Reformation of Religion according to the Covenant be ſetled by act of parliament, in ſuch man<g ref="char:EOLhyphen"/>ner as both Houſes have agreed, or ſhall agree upon after conſultation had with the Aſſembly of Divines.</p>
+               <p n="5">5 That for the more effectuall diſabling Jeſuits, prieſts, papiſts, and popiſh Recuſants from diſturbing the State, and deluding the Laws; and for the better diſcovering, and ſpeedy conviction of popiſh Recu<g ref="char:EOLhyphen"/>ſants, an Oath be eſtabliſhed by act of parliament to be adminiſtred to them, wherein they abjure and re<g ref="char:EOLhyphen"/>nounce the popes Supremacy, the Doctrine of Tran<g ref="char:EOLhyphen"/>ſubſtantiation, purgatory, worſhipping of the Conſe<g ref="char:EOLhyphen"/>crated Hoaſt, Crucifixes and Images, and all popiſh Superſtitions and Errors; and refuſing the ſaid Oath, being tendred in ſuch manner as ſhall be appointed by the ſaid Act, to be a ſufficient Conviction of popiſh Recuſants.</p>
+               <p n="6">6 An Act or Acts of parliament for education of the children of papiſts by proteſtants, in the proteſtant Religion.</p>
+               <p n="7">7 An Act for the true Leavy of the penalties againſt them, which penalties to be levied and diſpoſed in ſuch manner as both Houſes ſhall agree on, wherein to be provided that his Majeſty ſhall have no loſſe.</p>
+               <p n="8">8 That an act be paſſed in parliament, whereby the practiſes of papiſts may be prevented, and a ſtricter courſe taken to prevent tht ſaying or hearing of Maſs in the Court, or any other part of this Kingdom, or the Kingdom of <hi>Ireland.</hi>
+               </p>
+               <p>To the four firſt, its ſaid his Maj. makes ſome ſcru<g ref="char:EOLhyphen"/>ple at: to the latter, we hear, that He gave his Royall aſſent on <hi>Munday</hi> laſt.</p>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:162307:4"/>
+               <head>The Propoſitions of Prince <hi>Charles</hi> to the Earl of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> their Ingagement at Sea, and a dangerous Fight thereupon.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VPon the neer approach of our Fleet to the revol<g ref="char:EOLhyphen"/>ted ſhips, the Princes Mariners began to mutiny; <hi>His Highneſs cauſed a Councell to be called, &amp; adviſed with his Officers of a ſpeedy &amp; facile way to unite the ſaid ſhips; and it was agreed, that every chief Officer in the ſhips ſhould declare, that His Highneſſe had procured</hi> 6000. li. <hi>in Gold, which they ſhould have amongst them, with many other promiſes and perſwaſions, that the treaty would end all differences, both by Sea and Land, and then they ſhould come off with more honour, then accepting of an Act of Indempnity now; and finding that the Saylers were ſomwhat pacified for the preſent, the Prince ſent a Meſsage to the Lord Admirall, declaring his great diſlike that his Lordſhip ſhould endeavour any way to draw His ſervants from Him, requiring him to deſiſt for the future to do the like, and come and joyn with Him; which doing, He would procure a pardon for him from the King His Royall Father.</hi>
+               </p>
+               <p>
+                  <hi>The L. Admirall anſwered, that he takes it in diſhonor that either in himſelf, or any others, there ſhould be the leaſt thought of his breaking the trust repoſed in him; ac<g ref="char:EOLhyphen"/>quainting his Highneſse, that if he were expoſed to the greateſt extremity that is incident to man, he would ne<g ref="char:EOLhyphen"/>ever diſsert the</hi> Parliaments <hi>ſervice; and being in a good
+<pb n="5" facs="tcp:162307:4"/> condition at Sea, his advice to the Prince was, to come &amp; joyn with the</hi> Parl. <hi>but its thought nothing will be effected till its known how the treaty goes, and we hear that Sir</hi> T. Lunsford <hi>hath bin lately diſpatcht privately from the</hi> Brill <hi>for the Iſle of</hi> VVight <hi>upon ſome Meſsage to the King, or for ſome inſtructions or advice from thoſe that attend his Mai. this treaty.</hi>
+               </p>
+               <p>By other intelligence we likewiſe hear, that M. <hi>Mur<g ref="char:EOLhyphen"/>rey</hi> is gone for <hi>England,</hi> but upon what Deſign as yet. we cannot hear.</p>
+               <p>Some of our ſhips ride within two leagues of the revolted ſhips, with whom we would fain ingage, but as yet cannot; for the <hi>Hollander</hi> inſtead of ſecuring thoſe revolted ſhips of the parl. of <hi>England</hi> (a ſervice which in ſome meaſure might well be expected at their hands) by holding a neutrality, ſay they will pre<g ref="char:EOLhyphen"/>vent acts of hoſtility neer unto their parts, though it were never ſo many for promoting the affaires of the Parliament. Some aſſiſtance of Volunteers is ſaid to be expected from Denmarke which hath beene long ſpoken of and is ſtill likely, to be as ſlowly performed for we hear of none that come to the revolted ſhips, but ſome few which fled out of England, who are like to have as good a match by comming over to join with them, that are like to mutiny among themſelves as the Hollanders had by coveting and engroſſing the new Gold that of late they got out of England, or as thoſe which adventured 7000 li. Armes to recrute Duke Hambletons forces, which were taken the laſt week going for Scotland. Some action hath happened between the two Fleets, upon the Princes indeavour to ſayl from <hi>Gory,</hi> and two of his ſhips in danger of ſin<g ref="char:EOLhyphen"/>king.</p>
+               <closer>
+                  <dateline>
+                     <hi>From aboard the George</hi> 
+                     <date>7 <hi>Octob.</hi> 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:162307:5"/>
+               <opener>
+                  <dateline>Newport <date>Octob. <hi>10.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>Letters from the Iſle of <hi>Wight</hi> ſay, that the King hath lately received a meſſage from <hi>France,</hi> which re<g ref="char:EOLhyphen"/>preſent things there in a very ſad condition, as to him<g ref="char:EOLhyphen"/>ſelf and friends, and that the Queen cannot b ing about her Deſign for <hi>England,</hi> the Engliſh quarrel beginning to be <hi>a la mode de France.</hi>
+               </p>
+               <p>His Majeſty is poſſeſt with the ſad condition of the Scots, yet ſaith, that their Conquerors in the North are worthy of unparallel'd honour, whoſe further tranſactions and Declaration therein, he much expects and accordingly will make his Conceſſions in the main, which is not to be looked for till the 40 dayes are almoſt expired.</p>
+               <p>It is ſaid that his Maj. hath given his poſitive anſwer to the ſecond Bill, and hath alſo given his royall word to paſſe the ſame; and that He is very well ſatisfied in judgment, with the Aſwer from the Divines, to his pa<g ref="char:EOLhyphen"/>per for Epiſcopacy, which was</p>
+               <closer>
+                  <signed>Subſcribed, CHARLES R.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
